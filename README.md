@@ -913,15 +913,6 @@ A known customer-intelligence improvement area is replacing overly generic TF-ID
 
 ---
 
-# Author
-
-**Hamza Khan**  
-Computer Engineering student focused on software engineering, data systems, AI evaluation and analytics products.
-
-GitHub: https://github.com/Hamza102006
-
----
-
 <div align="center">
 
 ## Senvu
